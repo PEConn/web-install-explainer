@@ -69,9 +69,12 @@ Alternatively, after the user clicks the “Install” button on the website, th
 Just like in retail where you can try a product before purchasing, this flow would let the user try out the website before installing.
 The user clicks install on the catalogue and is taken to that page with a specialized browser UI that highlights installation and allows returning easily to the catalogue.
 
-<p align="center">
+<figure align="center">
     <img src="try-before-you-buy.png" alt="A screenshot of a website in an alternative browser UI that emphasises install and allows the user to quickly return to the directory." height="500px">
-</p>
+    <figcaption>
+        The user can easily install the app or return to the directory.
+    </figcaption>
+</figure>
 
 This is an improvement over the existing flow of linking a user to a web app and letting beforeInstallPrompt work on the target page because:
 
@@ -83,12 +86,12 @@ This is an improvement over the existing flow of linking a user to a web app and
 ### Do we need to attribute the source of the installation?
 
 In a lively ecosystem of PWAs and directories, it is likely that PWAs will advertise with directories for promotion and will wish to know the value that this brings.
-Therefore if a site is installed from a directory, the site should be informed which directory initiated this.
+Therefore if a site is installed from a directory, the site should be informed which directory the user came from.
 
 ## Should we provide feedback to the directory?
 
 What feedback do we provide to the directory about the result of the install flow?
-The directory may want to customize its UX, for example greying out the “Install” button.
+The directory may want to customize its UX, for example greying out the “Install” button if the installation was a success.
 
 ## What if the app is already installed?
 
