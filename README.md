@@ -1,1 +1,1 @@
-Please have a look at the [explainer here](explainer.html).
+Please have a look at the [explainer here](explainer.md).
