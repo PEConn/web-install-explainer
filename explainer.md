@@ -69,12 +69,10 @@ Alternatively, after the user clicks the “Install” button on the website, th
 Just like in retail where you can try a product before purchasing, this flow would let the user try out the website before installing.
 The user clicks install on the catalogue and is taken to that page with a specialized browser UI that highlights installation and allows returning easily to the catalogue.
 
-<figure align="center">
-    <img src="try-before-you-buy.png" alt="A screenshot of a website in an alternative browser UI that emphasises install and allows the user to quickly return to the directory." height="500px">
-    <figcaption>
-        The user can easily install the app or return to the directory.
-    </figcaption>
-</figure>
+<p align="center">
+    <img src="try-before-you-buy.png" alt="A screenshot of a website in an alternative browser UI that emphasises install and allows the user to quickly return to the directory." height="500px"><br />
+    <em>The user can easily install the app or return to the directory.</em>
+<p>
 
 This is an improvement over the existing flow of linking a user to a web app and letting beforeInstallPrompt work on the target page because:
 
