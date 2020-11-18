@@ -1,3 +1,5 @@
+# Web Install API
+
 Links:
 
 * [Draft explainer](explainer.md)
