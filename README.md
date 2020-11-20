@@ -9,3 +9,4 @@ Links:
     * [Minutes](https://www.w3.org/2020/10/27-web-install-minutes.html)
 * BlinkOn 13 Breakout Session
     * [Slides](tpac-breakout-slides.pdf)
+    * [Recording](https://www.youtube.com/watch?v=RdaZhX7T6to)
